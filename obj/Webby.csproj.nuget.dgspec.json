@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/b/PROG/Webby/Webby.csproj": {}
+    "/home/b/Prog/Webby/Webby.csproj": {}
   },
   "projects": {
-    "/home/b/PROG/Webby/Webby.csproj": {
+    "/home/b/Prog/Webby/Webby.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/b/PROG/Webby/Webby.csproj",
+        "projectUniqueName": "/home/b/Prog/Webby/Webby.csproj",
         "projectName": "Webby",
-        "projectPath": "/home/b/PROG/Webby/Webby.csproj",
+        "projectPath": "/home/b/Prog/Webby/Webby.csproj",
         "packagesPath": "/home/b/.nuget/packages/",
-        "outputPath": "/home/b/PROG/Webby/obj/",
+        "outputPath": "/home/b/Prog/Webby/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

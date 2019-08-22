@@ -20,7 +20,7 @@ namespace Webby.Data.Models {
 		
 		public bool is_favorite {set; get;}
 		
-		public int available {set; get;}
+		public bool available {set; get;}
 		
 		public int category_id {set; get;}
 		
